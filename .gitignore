@@ -1,2 +1,5 @@
 # Project exclude paths
+/boot_01_01_quickstart/target/
+/boot_01_02_quickstart/target/
+/boot_01_03_quickstart/target/
 /boot_01_04_quickstart/target/
